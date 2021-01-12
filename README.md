@@ -8,11 +8,11 @@ All the information about the course is ordered week by week in the **[WeekApp S
 
 ## 1. Worked Examples, WE
 
-### 1.1. WE:traditionals
-+ (Week 1) Classical Particles and Waves: [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S1_WE_ClassicalParticlesAndWaves_David.pdf), and [explanation video](https://youtu.be/Fe0A861ZIyA?t=94).
-+ (Week 1) Momentum Operator: [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S1_WE_MomentumOperator_David.pdf).
-+ (Week 1) Schrödinger Equation: [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S1_WE_ScrhodingerEquation_David.pdf), and [explanation video](https://youtu.be/Fe0A861ZIyA?t=592).
-+ (Week 2) Wave Packet and Uncertanty: [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S2_WE6_WavePacketAndUncertainty_David.pdf), [python script](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S2_WE6_pythonScript.py), [figure](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S2_WE6_UncertaintyPlots.png).
+### 1.1. WE: traditionals
++ (Week 1) Classical particles and waves: [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S1_WE_ClassicalParticlesAndWaves_David.pdf), and [explanation video](https://youtu.be/Fe0A861ZIyA?t=94).
++ (Week 1) Momentum pperator: [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S1_WE_MomentumOperator_David.pdf).
++ (Week 1) Schrödinger equation: [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S1_WE_ScrhodingerEquation_David.pdf), and [explanation video](https://youtu.be/Fe0A861ZIyA?t=592).
++ (Week 2) Wave oacket and uncertanty: [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S2_WE6_WavePacketAndUncertainty_David.pdf), [python script](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S2_WE6_pythonScript.py), [figure](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S2_WE6_UncertaintyPlots.png).
 + (Week 2) Infinite quantum well: **Prof. Steve WE**.
 + (Week 6) Reducibility of a C3v regular representation:  [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S6_WE_RegularRepresentationAndIrreducibility.pdf).
 
