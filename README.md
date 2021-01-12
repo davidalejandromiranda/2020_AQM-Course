@@ -21,7 +21,7 @@ All the information about the course is ordered week by week in the **[WeekApp S
 + (Week 4) s and p orbitals for hydrogenoids atoms: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/estadoSolido/blob/master/S2_HibridacionOrbitales.ipynb).
 + (Weeks 6 and 7) Reducible representation and its decomposition in irreducible representations: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/representaciones_reducibles.ipynb), and [explanation video](https://youtu.be/Bx4ybZEEbmg).
 + (Week 8) Rotation symmetry operator over a function f(x, y): [WE](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/Operador_Cn_Sobre_Funcion.ipynb), and [explanation video](https://youtu.be/aR-XsWcDReM).
-+ (Week 12) Two confinated indistinguible particles: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/two_qparticles.ipynb" target="_blank"   class="btn btn-primary).
++ (Week 12) Two confinated indistinguible particles: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/two_qparticles.ipynb).
 ### 1.3. WE: book based
 + (Week 12) Angular momentum sum: [J. Daniel KelleyJacob, and J. Leventhal. Problems in Classical and Quantum Mechanics; exercises 5, 6, 8 and 9](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46664-4_8.pdf), [explanation video](https://youtu.be/Ymo3MbE0U3Y).
 + (Week 13) 1/2 spin: [J. Daniel KelleyJacob, and J. Leventhal. Problems in Classical and Quantum Mechanics](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46664-4_9.pdf).
