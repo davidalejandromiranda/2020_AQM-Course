@@ -16,3 +16,5 @@ This repository includes the material used in the quantum mechanic course offere
 ### WE: book based
 
 ### WE: paper based
++ Week 1:
+  + [Measuring the wave function](https://www.nature.com/articles/nature10120): Lundeen et al., Nature 474 (2011) 188-191.  [Explanation video](https://youtu.be/Fe0A861ZIyA?t=1326).
