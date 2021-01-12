@@ -8,9 +8,9 @@ This repository includes the material used in the quantum mechanic course offere
 
 ### WE: traditionals
 + Week 1: 
-  + [Classical Particles and Waves](https://github.com/davidalejandromiranda/2020_AQM-Course/WE/traditional/S1_WE_ClassicalParticlesAndWaves_David.pdf)
-  + [Momentum Operator](https://github.com/davidalejandromiranda/2020_AQM-Course/WE/traditional/S1_WE_MomentumOperator_David.pdf)
-  + [Schrödinger Equation](https://github.com/davidalejandromiranda/2020_AQM-Course/WE/traditional/S1_WE_ScrhodingerEquation_David.pdf)
+  + [Classical Particles and Waves](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S1_WE_ClassicalParticlesAndWaves_David.pdf)
+  + [Momentum Operator](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S1_WE_MomentumOperator_David.pdf)
+  + [Schrödinger Equation](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S1_WE_ScrhodingerEquation_David.pdf)
 ### WE: Jupyter Notebook
 
 ### WE: book based
