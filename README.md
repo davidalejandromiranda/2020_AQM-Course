@@ -14,7 +14,8 @@ All the information about the course is ordered week by week in the **[WeekApp S
 + (Week 1) Schrödinger Equation: [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S1_WE_ScrhodingerEquation_David.pdf), and [explanation video](https://youtu.be/Fe0A861ZIyA?t=592).
 + (Week 2) Wave Packet and Uncertanty: [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S2_WE6_WavePacketAndUncertainty_David.pdf), [python script](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S2_WE6_pythonScript.py), [figure](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S2_WE6_UncertaintyPlots.png).
 + (Week 2) Infinite quantum well: **Prof. Steve WE**.
-+ (Week 6) Reducibility of a C3v regular representation:  [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S6_WE_Regular representation and irreducibility.pdf).
++ (Week 6) Reducibility of a C3v regular representation:  [WE](https://github.com/davidalejandromiranda/2020_AQM-Course/blob/main/WE/traditional/S6_WE_RegularRepresentationAndIrreducibility.pdf).
+
 ### 1.2. WE: Jupyter Notebook
 + (Week 3) Electron in a 2D periodic structure: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/estadoSolido/blob/master/S4_EnergiaCelda2D_ElectronLibre.ipynb).
 + (Week 3) Elecgtron in a 3D periodic structure: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/estadoSolido/blob/master/S4_G4_EstructuraBandasFCC/S4_G4_EstructuraBandasFCC.ipynb).
